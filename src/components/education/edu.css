@@ -156,10 +156,11 @@ ul {
   margin-top: 2rem;
 }
 
-@media screen and (max-width: 480px) {
-  /* .main__edu{
-    display: block;
-  } */
+@media screen and (max-width: 768px) {
+  .edu__p{
+    padding: 20px;
+    text-align: center;
+  }
 }
 
 @media screen and (max-width: 480px) {

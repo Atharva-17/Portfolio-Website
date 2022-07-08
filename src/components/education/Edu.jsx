@@ -20,7 +20,7 @@ function Edu() {
       <h3><i class="fa fa-briefcase" id='cap'></i>Experience</h3>
       <ul>
         <li><span>Web Developer Intern</span><small>UFF Food Pvt. Ltd.</small><small>June 2021 - August 2021</small></li>
-        <li><span>Freelance</span><small>Projects</small><small>2021 - Present</small></li>
+        <li><span>Freelance Work</span><small>Projects</small><small>2021 - Present</small></li>
         {/* <li><span>High School</span><small>Henry M. Jackson High School</small><small>Jan. 2013 - Jun. 2015</small></li> */}
       </ul>
     </div>

@@ -1,6 +1,6 @@
 import "./intro.css";
 import Me from "../../img/data.gif";
-import { Player, Controls } from '@lottiefiles/react-lottie-player';
+
 
 const Intro = () => {
   return (
@@ -36,8 +36,8 @@ const Intro = () => {
           <button className="secondary-btn">Cover Letter</button>
           </div>
           
-        </div>
-        <svg
+        </div >
+        <svg 
           width="75"
           height="75"
           viewBox="0 0 75 75"

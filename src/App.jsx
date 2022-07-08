@@ -1,7 +1,6 @@
 import { useContext } from "react";
 import Contact from "./components/contact/Contact";
 import Intro from "./components/intro/Intro";
-import ProductList from "./components/productList/ProductList";
 import Toggle from "./components/toggle/Toggle";
 import Navi from './components/nav/Navi.jsx';
 import Edu from './components/education/Edu.jsx';
@@ -29,7 +28,6 @@ const App = () => {
       <Edu />
       <Skills />
       <Project />
-      {/* <ProductList /> */}
       <Contact />
     </div>
   );

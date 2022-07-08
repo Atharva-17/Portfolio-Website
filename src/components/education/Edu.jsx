@@ -7,6 +7,9 @@ function Edu() {
     <section id='about'>
     <div className='hero__main' data-aos="fade-up">
       <label htmlFor="" className="edu__title">About</label>
+      <p className='edu__p'>I design and develop services for customers of all sizes,
+            specializing in creating stylish, modern websites, web services and
+            online stores.</p>
     <div className='main__edu'>
    <div class="work" data-aos="fade-up">
       <h3><i class="fa fa-graduation-cap " id='briefcase'></i>Education</h3>

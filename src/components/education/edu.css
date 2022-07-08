@@ -145,7 +145,15 @@ ul {
   justify-content: center;
   /* padding: 12%; */
   /* padding-top: 12%; */
-  margin-top: 7rem;
+  margin-top: 4rem;
+}
+
+.edu__p{
+  font-size: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
 }
 
 @media screen and (max-width: 480px) {
@@ -154,6 +162,12 @@ ul {
   } */
 }
 
+@media screen and (max-width: 480px) {
+  .edu__p{
+    padding: 20px;
+    text-align: justify;
+  }
+}
 h3 i {
   color: white;
   background: black;

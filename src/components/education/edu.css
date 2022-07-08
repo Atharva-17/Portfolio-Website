@@ -1,4 +1,4 @@
-* {
+/* * {
   outline: none;
 }
 
@@ -6,10 +6,10 @@
 *:before,
 *:after {
   box-sizing: inherit;
-}
+} */
 
 .hero__main{
-  height: 80vh;
+  height: 100vh;
   background-color: #fff;
   opacity: 1;
   background-image: radial-gradient(#59b256 0.5px, #fff 0.5px);
@@ -19,7 +19,7 @@
 h3 {
   color: black;
   margin: 10px 0;
-  text-transform: lowercase;
+  text-transform: uppercase;
   font-size: 1.25em;
 }
 ul {
@@ -143,8 +143,9 @@ ul {
   display: flex;
   align-items: center;
   justify-content: center;
-  /* padding: 80px; */
-  padding-top: 12%;
+  /* padding: 12%; */
+  /* padding-top: 12%; */
+  margin-top: 7rem;
 }
 
 @media screen and (max-width: 480px) {
@@ -158,11 +159,24 @@ h3 i {
   background: black;
   width: 42px;
   height: 42px;
-  font-size: 20px;
+  /* font-size: 1.7rem; */
   line-height: 42px;
   border-radius: 50%;
   text-align: center;
   vertical-align: middle;
   margin-right: 8px;
   transition-duration: 0.3s;
+}
+ 
+#cap,#briefcase{
+     font-size: 1.6rem;
+}
+
+.edu__title{
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  justify-content: center;
+  align-items: center;
+  padding-top: 3%;
 }

@@ -8,9 +8,9 @@ const Intro = () => {
     <div className="i">
       <div className="i-left">
         <div className="i-left-wrapper">
-          <h2 className="i-intro">Hello, My name is</h2>
-          <h1 className="i-name">Atharva Pandhare</h1>
-          <div className="i-title">
+          <h2 className="i-intro" data-aos="fade-right">Hello, My name is</h2>
+          <h1 className="i-name" data-aos="fade-right">Atharva Pandhare</h1>
+          <div className="i-title" data-aos="fade-right">
             <div className="i-title-wrapper">
               <div className="i-title-item">Web Developer</div>
               <div className="i-title-item">UI/UX Designer</div>
@@ -19,7 +19,7 @@ const Intro = () => {
               <div className="i-title-item">Video Editor</div>
             </div>
           </div>
-          <p className="i-desc">
+          <p className="i-desc" data-aos="fade-up">
           I love taking responsibilities, I am a developer and
           hard worker. Proficient in my work and have a
           creative touch to it. I am a curious learner who likes
@@ -31,7 +31,7 @@ const Intro = () => {
             specializing in creating stylish, modern websites, web services and
             online stores. */}
           </p>
-          <div className="flex">
+          <div className="flex" data-aos="fade-up">
           <button className="primary-btn">Resume</button>
           <button className="secondary-btn">Cover Letter</button>
           </div>
@@ -105,7 +105,7 @@ const Intro = () => {
          >
          </Player>
          </div> */}
-        <img src={Me} alt="" className="i-img" />
+        <img src={Me} alt="" className="i-img" data-aos="fade-left" />
       </div>
     </div>
     </section>

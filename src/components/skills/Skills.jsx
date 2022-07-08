@@ -8,11 +8,11 @@ function Skills() {
   return (
     <>
     <div className='skills'>
-      <label htmlFor="" className="section-title">Technologies</label>
+      <label htmlFor="" data-aos="fade-up" className="section-title">Technologies</label>
       <div className="skills-container">
         {data.map((item) => {
           return (
-            <div className="skills-section">
+            <div className="skills-section" data-aos="fade-up">
               <label htmlFor="" className="skills-section-title">{item.type}</label>
               <div className="skills-list">
                 {item.list.map((skill)=>{

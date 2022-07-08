@@ -8,8 +8,8 @@ function Project() {
     <>
     <section id='projects'>
     <div className='projects'>
-        <label htmlFor="" className='project-title'>Projects</label>
-           <div>
+        <label htmlFor="" data-aos="fade-up" className='project-title'>Projects</label>
+           <div data-aos="fade-up">
             {data.map((project) => {
                 return  <ProjectCard project={project} />;
         

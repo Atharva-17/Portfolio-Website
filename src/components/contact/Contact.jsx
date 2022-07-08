@@ -37,7 +37,7 @@ const Contact = () => {
     <div className="c">
       <div className="c-bg"></div>
       <div className="c-wrapper">
-        <div className="c-left">
+        <div className="c-left" data-aos="fade-right">
           <h1 className="c-title">Let's discuss your project</h1>
           <div className="c-info">
             <div className="c-info-item">
@@ -54,7 +54,7 @@ const Contact = () => {
             </div>
           </div>
         </div>
-        <div className="c-right">
+        <div className="c-right" data-aos="fade-left">
           <p className="c-desc">
             <b>What’s your story?</b> Get in touch. Always available for
             freelancing if the right project comes along. me.

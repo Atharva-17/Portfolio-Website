@@ -2,8 +2,8 @@ export const ProjectData =[
     {
         id:1,
         title:"Unibuzz Solutions",
-        about:"React makes it painless to create interactive UIs.augggavbjdvbdvjdv jbuojubobjbobduvjoboujbvou ajvbjbjbvoujbujobjbjobo sjsboujbsuojbjbsujb",
-        tags:['Reactjs','NodeJs'],
+        about:"Unibuzz marketing solution Provides digital marketing services for various businesses. Designed the entire UI and implemented Custom CSS animation, also developed the Dynamic Contact Us Form.",
+        tags:['Freelance','HTML','CSS','Javascript','jQuery'],
         demo:"ebfje",
         github:"vjvjhv",
         image:"https://xp.io/storage/20V2mmNl.png"

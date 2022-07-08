@@ -41,6 +41,7 @@
 .skills-section-title{
     font-size: 3rem;
     font-weight: 400;
+    color: #59b256;
 }
 .skills-list{
     display: flex;

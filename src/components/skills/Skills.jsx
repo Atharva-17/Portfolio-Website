@@ -7,6 +7,7 @@ function Skills() {
   const data =  SkillsData;
   return (
     <>
+     <section id='tech'>
     <div className='skills'>
       <label htmlFor="" data-aos="fade-up" className="section-title">Technologies</label>
       <div className="skills-container">
@@ -26,6 +27,7 @@ function Skills() {
         })}
       </div>
     </div>
+    </section>
     </>
   );
 }

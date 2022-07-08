@@ -132,11 +132,12 @@
     }
     .project-title-info{
         display: flex;
+        font-size: 1.5rem;
         justify-content: center;
         align-items: center;
     }
     .project-about{
-        max-width: 100%;
+        max-width: 140%;
     }
     .project-links{
         justify-content: center;

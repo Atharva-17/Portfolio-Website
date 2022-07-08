@@ -142,7 +142,8 @@
         align-items: center;
     }
     .project-about{
-        max-width: 140%;
+        max-width: 100%;
+        text-align: justify;
     }
     .project-links{
         justify-content: center;

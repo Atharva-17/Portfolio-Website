@@ -10,9 +10,9 @@ function Social() {
     <>
     <div className='main__social'>
         <div className='social__items'>
-        <a href="#" className='social__icon'><AiFillInstagram/></a>
-        <a href="#" className='social__icon' ><BsLinkedin/></a>
-        <a href="#" className='social__icon'><AiFillGithub/></a>
+        <a href="https://www.instagram.com/atharvvv.17/" className='social__icon'><AiFillInstagram/></a>
+        <a href="https://www.linkedin.com/in/atharva-pandhare/" className='social__icon' ><BsLinkedin/></a>
+        <a href="https://github.com/Atharva-17" className='social__icon'><AiFillGithub/></a>
         <a href="#" className='social__icon'><BsTwitter/></a>
         </div>
 

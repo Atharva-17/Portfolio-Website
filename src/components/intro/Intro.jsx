@@ -27,13 +27,10 @@ const Intro = () => {
           with my current skill set. My main aim is to gain
           enough expertise in emerging technologies to build
           a great product/ services which would help people.
-            {/* I design and develop services for customers of all sizes,
-            specializing in creating stylish, modern websites, web services and
-            online stores. */}
           </p>
           <div className="flex" data-aos="fade-up">
-          <button className="primary-btn">Resume</button>
-          <button className="secondary-btn">Cover Letter</button>
+          <a href="https://drive.google.com/file/d/1Obi10t_U6mYWz4jiRPCy1alaOGrxi9a_/view?usp=sharing"><button className="primary-btn">Resume</button></a>
+          <a href="https://drive.google.com/file/d/1VHjaykYdKIuGPXTgvwkxhg_sABUhj_-d/view?usp=sharing"><button className="secondary-btn">Cover Letter</button></a>
           </div>
           
         </div >

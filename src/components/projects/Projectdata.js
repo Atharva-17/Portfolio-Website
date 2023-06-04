@@ -1,13 +1,36 @@
 export const ProjectData =[
     {
         id:1,
-        title:"Quiz App",
-        about:"Build a React Quiz app using Firebase and deployed on Heroku. Implemented functionalities like Email Login, realtime database using Firebase, Fetch API, Notifications Channels.",
-        tags:['React','HTML','CSS','Javascript','NodeJs','Firebase','Heroku'],
-        demo:"https://react-quiz-app17.herokuapp.com/",
+        title:"Royal Cliff Hotels & Resorts [Freelance]",
+        about:"Designed a well-organized Customized Landing page for the website using figma.Created reusable UI components by using standard HTML,CSS. Implemented custom responsive carousel, also developed the Dynamic Contact Us Form.",
+        tags:['Freelance','HTML','CSS','Javascript','Jquery'],
+        demo:"https://royal-cliff.in/",
         github:"https://github.com/Atharva-17/Portfolio-Website",
-        image:"https://xp.io/storage/2at0qxWq.jpg"
+        image:"https://xp.io/storage/1F6KvMw1.jpg"
     },
+    
+    {
+        id:1,
+        title:"Unibuzz Solutions [Freelance]",
+        about:"Unibuzz marketing solution Provides digital marketing services for various businesses. Designed the entire UI and implemented Custom CSS animation, also developed the Dynamic Contact Us Form.",
+        tags:['Freelance','HTML','CSS','Javascript','jQuery'],
+        demo:"https://github.com/Atharva-17/Facial-Emotion-Recognition",
+        github:"https://github.com/Atharva-17/unibuzz_solution",
+        image:"https://xp.io/storage/20V2mmNl.png"
+    },
+
+   
+
+    {
+        id:1,
+        title:"H. Thakare [Freelance]",
+        about:"H.Thakare is a real estate consultant. The client’s requirement was to make a portfolio landing page. For this project, I designed fully Responsive UI and developed Custom CSS animations, Deployed the site on given servers.",
+        tags:['Freelance','HTML','CSS','Javascript'],
+        demo:"https://www.hthakare.in/",
+        github:"https://github.com/Atharva-17/harshal_thakare",
+        image:"https://xp.io/storage/2atAwOqb.png"
+    },
+
     {
         id:1,
         title:"Facial Emotion Recognition System",
@@ -16,25 +39,6 @@ export const ProjectData =[
         demo:"https://github.com/Atharva-17/Facial-Emotion-Detection",
         github:"https://github.com/Atharva-17/Facial-Emotion-Detection",
         image:"https://xp.io/storage/2auLSmky.png"
-    },
-    {
-        id:1,
-        title:"Unibuzz Solutions",
-        about:"Unibuzz marketing solution Provides digital marketing services for various businesses. Designed the entire UI and implemented Custom CSS animation, also developed the Dynamic Contact Us Form.",
-        tags:['Freelance','HTML','CSS','Javascript','jQuery'],
-        demo:"https://github.com/Atharva-17/Facial-Emotion-Recognition",
-        github:"https://github.com/Atharva-17/unibuzz_solution",
-        image:"https://xp.io/storage/20V2mmNl.png"
-    },
-
-    {
-        id:1,
-        title:"H. Thakare",
-        about:"H.Thakare is a real estate consultant. The client’s requirement was to make a portfolio landing page. For this project, I designed fully Responsive UI and developed Custom CSS animations, Deployed the site on given servers.",
-        tags:['Freelance','HTML','CSS','Javascript'],
-        demo:"https://www.hthakare.in/",
-        github:"https://github.com/Atharva-17/harshal_thakare",
-        image:"https://xp.io/storage/2atAwOqb.png"
     },
 
     {

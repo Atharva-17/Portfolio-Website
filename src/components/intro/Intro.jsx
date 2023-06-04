@@ -20,13 +20,15 @@ const Intro = () => {
             </div>
           </div>
           <p className="i-desc" data-aos="fade-up">
-          I love taking responsibilities, I am a developer and
-          hard worker. Proficient in my work and have a
-          creative touch to it. I am a curious learner who likes
+          I am a curious learner who likes
           to experiment with new technologies to integrate
-          with my current skill set. My main aim is to gain
+          with my current skill set. 
+          Proficient in my work and have a
+          creative touch to it. I am a hard worker and a developer who enjoys taking on responsibilities. 
+          My main aim is to gain
           enough expertise in emerging technologies to build
           a great product/ services which would help people.
+          
           </p>
           <div className="flex" data-aos="fade-up">
           <a href="https://drive.google.com/file/d/1Obi10t_U6mYWz4jiRPCy1alaOGrxi9a_/view?usp=sharing"><button className="primary-btn">Resume</button></a>

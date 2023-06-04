@@ -16,10 +16,10 @@ const Contact = () => {
     e.preventDefault();
     emailjs
       .sendForm(
-        "service_rrvnzco",
-        "template_3v5nih4",
+        "service_74jwl0f",
+        "template_dnw6ou6",
         formRef.current,
-        "user_DrriDPTGKO2Zj4RDXCA6W"
+        "EnSqv96q7qxJYpka8"
       )
       .then(
         (result) => {
@@ -42,7 +42,7 @@ const Contact = () => {
           <div className="c-info">
             <div className="c-info-item">
               <img src={Phone} alt="" className="c-icon" />
-              +1 1234 556 75
+              +91 9307872442
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Email} alt="" />

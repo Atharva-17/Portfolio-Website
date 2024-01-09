@@ -57,10 +57,6 @@ export const SkillsData =[
                 icon:<i class="devicon-python-plain colored"></i>,
             },
             {
-                name:"django",
-                icon:<i class="devicon-django-plain colored"></i>,
-            },
-            {
                 name:"Firebase",
                 icon:<i class="devicon-firebase-plain colored"></i>,
             },

@@ -157,6 +157,9 @@ ul {
 }
 
 @media screen and (max-width: 768px) {
+  .hero__main{
+    height: auto;
+   }
   .edu__p{
     padding: 20px;
     text-align: center;
